@@ -1,0 +1,6 @@
+{
+  "name": "HOLA SURVIVAL: 28 Ngày Sinh Tồn",
+  "description": "Visual novel & mô phỏng sinh tồn 28 ngày học quân sự tại HOLA Hòa Lạc dành cho sinh viên Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
